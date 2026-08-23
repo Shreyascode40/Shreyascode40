@@ -1,42 +1,30 @@
 <div align="center">
 
-<img src="./assets/zoro.jpg" width="100%" />
+<img src="./assets/zoro.jpg" width="100%" alt="Banner" />
 
-# 👋 Hey, I'm Shreyas More
+# Hey, I'm Shreyas More
 
 ### `Computer Engineering Student • Developer • Builder`
 
 **Learn. Build. Experiment. Repeat.**
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Shreyascode40)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shreyascode40)
 
 </div>
 
----
+<br>
 
-## 🧑‍💻 About Me
+## About Me
 
-I'm a **Computer Engineering student from Pune, India**, interested in technology, programming, problem-solving and building things that turn ideas into reality.
+I'm a **Computer Engineering student from Pune, India**, interested in technology, programming, problem-solving, and building things that turn ideas into reality.
 
 I enjoy exploring different areas of computer science, creating projects, experimenting with new technologies, and understanding how things work under the hood.
 
-```text
-┌──────────────────────────────────────────┐
-│                                          │
-│       LEARN  →  BUILD  →  BREAK         │
-│                  ↓                       │
-│             UNDERSTAND                  │
-│                  ↓                       │
-│               REBUILD                   │
-│                                          │
-└──────────────────────────────────────────┘
-```
+<br>
 
----
+## Tech Stack
 
-# ⚡ Tech Stack
-
-### Languages
+**Languages**
 
 <p>
 <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ff88"/>
@@ -46,7 +34,7 @@ I enjoy exploring different areas of computer science, creating projects, experi
 <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=00ff88"/>
 </p>
 
-### Backend & Development
+**Backend & Development**
 
 <p>
 <img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=00ff88"/>
@@ -56,7 +44,7 @@ I enjoy exploring different areas of computer science, creating projects, experi
 <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00ff88"/>
 </p>
 
-### AI / Computer Vision
+**AI / Computer Vision**
 
 <p>
 <img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=00ff88"/>
@@ -66,7 +54,7 @@ I enjoy exploring different areas of computer science, creating projects, experi
 <img src="https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=00ff88"/>
 </p>
 
-### Databases & Tools
+**Databases & Tools**
 
 <p>
 <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=00ff88"/>
@@ -79,49 +67,33 @@ I enjoy exploring different areas of computer science, creating projects, experi
 <img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=00ff88"/>
 </p>
 
----
+<br>
 
-# 🚀 Projects
+## Projects
 
-## 🧠 BrainIt
-
-An EEG-based project exploring **brain signals, motor imagery and machine learning**.
+### BrainIt
+An EEG-based project exploring **brain signals, motor imagery, and machine learning**.
 
 **Tech:** `Python` `MNE` `EEG` `Machine Learning`
-
-🔗 **[View Repository](https://github.com/Shreyascode40/brainit)**
+[View Repository](https://github.com/Shreyascode40/brainit)
 
 ---
 
-## 🔎 Lost & Found
-
-A college-focused platform for managing **lost and found items**, users, claims and administration.
+### Lost & Found
+A college-focused platform for managing **lost and found items**, users, claims, and administration.
 
 **Tech:** `Django` `PostgreSQL` `REST API`
 
 ---
 
-## ✋ Hand Gesture Controller
-
+### Hand Gesture Controller
 A computer-vision project that uses **hand tracking** to interact with and control a computer.
 
 **Tech:** `Python` `OpenCV` `MediaPipe`
 
----
+<br>
 
-# 🧩 Beyond Code
-
-<div align="center">
-
-|   ♟️  |      🧮     |      💻     |   🎹  |   🎵  |     🤖     |   🎌  |
-| :---: | :---------: | :---------: | :---: | :---: | :--------: | :---: |
-| Chess | Mathematics | Programming | Piano | Music | Technology | Anime |
-
-</div>
-
----
-
-# 🧠 Philosophy
+## Philosophy
 
 <div align="center">
 
@@ -131,31 +103,9 @@ A computer-vision project that uses **hand tracking** to interact with and contr
 
 I believe the best way to learn is to **build something, break it, understand why it broke, and build it better.**
 
-```text
-              ┌───────────────┐
-              │     IDEA      │
-              └───────┬───────┘
-                      ↓
-              ┌───────────────┐
-              │     BUILD     │
-              └───────┬───────┘
-                      ↓
-              ┌───────────────┐
-              │     BREAK     │
-              └───────┬───────┘
-                      ↓
-              ┌───────────────┐
-              │  UNDERSTAND   │
-              └───────┬───────┘
-                      ↓
-              ┌───────────────┐
-              │    REBUILD    │
-              └───────────────┘
-```
+<br>
 
----
-
-# 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -165,17 +115,15 @@ I believe the best way to learn is to **build something, break it, understand wh
 
 </div>
 
-<br>
-
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shreyascode40&hide_border=true&background=000000&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" />
 
 </div>
 
----
+<br>
 
-# 🐍 Contribution Graph
+## Contribution Graph
 
 <div align="center">
 
@@ -183,21 +131,19 @@ I believe the best way to learn is to **build something, break it, understand wh
 
 </div>
 
----
+<br>
 
-# 📈 GitHub Activity
+## GitHub Activity
 
 <div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shreyascode40\&bg_color=000000\&color=00ff88\&line=00ff88\&point=ffffff\&area=true\&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shreyascode40&bg_color=000000&color=00ff88&line=00ff88&point=ffffff&area=true&hide_border=true)
 
 </div>
 
----
+<br>
 
 <div align="center">
-
-## ⚔️
 
 ### `BUILD SOMETHING WORTH REMEMBERING.`
 
@@ -205,6 +151,6 @@ I believe the best way to learn is to **build something, break it, understand wh
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Shreyascode40\&color=00ff88\&style=flat-square\&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Shreyascode40&color=00ff88&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
