@@ -120,17 +120,6 @@ A computer-vision project that uses **real-time hand tracking** to control a com
 
 <br>
 
-## Philosophy
-
-<div align="center">
-
-### **"Don't just use technology. Understand it."**
-
-</div>
-
-I believe the best way to learn is to **build something, break it, understand why it broke, and build it better.**
-
-<br>
 
 ## GitHub Stats
 
