@@ -93,17 +93,6 @@ A computer-vision project that uses **hand tracking** to interact with and contr
 
 <br>
 
-## Philosophy
-
-<div align="center">
-
-### **"Don't just use technology. Understand it."**
-
-</div>
-
-I believe the best way to learn is to **build something, break it, understand why it broke, and build it better.**
-
-<br>
 
 ## GitHub Stats
 
