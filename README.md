@@ -71,28 +71,66 @@ I enjoy exploring different areas of computer science, creating projects, experi
 
 ## Projects
 
-### BrainIt
-An EEG-based project exploring **brain signals, motor imagery, and machine learning**.
+<table>
+<tr>
+<td width="100%">
 
-**Tech:** `Python` `MNE` `EEG` `Machine Learning`
-[View Repository](https://github.com/Shreyascode40/brainit)
+### 01 &nbsp;·&nbsp; BrainIt
+> Decoding intention from raw signal.
 
----
+An EEG-based project exploring **brain signals, motor imagery, and machine learning** — turning noisy neural data into meaningful predictions.
 
-### Lost & Found
-A college-focused platform for managing **lost and found items**, users, claims, and administration.
+<img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=00ff88"/> <img src="https://img.shields.io/badge/MNE-000000?style=flat-square&logoColor=00ff88"/> <img src="https://img.shields.io/badge/EEG-000000?style=flat-square&logoColor=00ff88"/> <img src="https://img.shields.io/badge/Machine_Learning-000000?style=flat-square&logoColor=00ff88"/>
 
-**Tech:** `Django` `PostgreSQL` `REST API`
+**[→ View Repository](https://github.com/Shreyascode40/brainit)**
 
----
+</td>
+</tr>
+</table>
 
-### Hand Gesture Controller
-A computer-vision project that uses **hand tracking** to interact with and control a computer.
+<table>
+<tr>
+<td width="100%">
 
-**Tech:** `Python` `OpenCV` `MediaPipe`
+### 02 &nbsp;·&nbsp; Lost & Found
+> Because someone's "lost" is someone else's "found."
+
+A college-focused platform for managing **lost and found items**, handling users, claims, and administration end-to-end.
+
+<img src="https://img.shields.io/badge/Django-000000?style=flat-square&logo=django&logoColor=00ff88"/> <img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=00ff88"/> <img src="https://img.shields.io/badge/REST_API-000000?style=flat-square&logoColor=00ff88"/>
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="100%">
+
+### 03 &nbsp;·&nbsp; Hand Gesture Controller
+> Your hand is the mouse.
+
+A computer-vision project that uses **real-time hand tracking** to control a computer — no touch required.
+
+<img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=00ff88"/> <img src="https://img.shields.io/badge/OpenCV-000000?style=flat-square&logo=opencv&logoColor=00ff88"/> <img src="https://img.shields.io/badge/MediaPipe-000000?style=flat-square&logoColor=00ff88"/>
+
+</td>
+</tr>
+</table>
 
 <br>
 
+## Philosophy
+
+<div align="center">
+
+### **"Don't just use technology. Understand it."**
+
+</div>
+
+I believe the best way to learn is to **build something, break it, understand why it broke, and build it better.**
+
+<br>
 
 ## GitHub Stats
 
