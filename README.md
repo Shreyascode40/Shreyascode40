@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="Zoro_Anime Wallpaper.jpg" width="100%" alt="Banner" />
+<img src="Zoro _ Anime Wallpaper.jpg" width="100%" alt="Banner" />
 
 # Hey, I'm Shreyas More
 
