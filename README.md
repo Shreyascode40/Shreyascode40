@@ -174,6 +174,6 @@ A computer-vision project that uses **real-time hand tracking** to control a com
 
 <div align="center">
 
-### `🖕 FUCK YOU, LARPERS. 🖕`
+### `FUCK YOU, LARPERS. 🖕`
 
 </div>
