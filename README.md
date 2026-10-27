@@ -170,3 +170,10 @@ A computer-vision project that uses **real-time hand tracking** to control a com
 ![Profile Views](https://komarev.com/ghpvc/?username=Shreyascode40&color=00ff88&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
+<br>
+
+<div align="center">
+
+### `🖕 FUCK YOU, LARPERS. 🖕`
+
+</div>
